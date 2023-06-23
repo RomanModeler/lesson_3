@@ -1,0 +1,32 @@
+
+*{
+
+}
+.text{
+
+}
+#red{
+
+}
+div.text{
+
+}
+.lesson{
+
+}.lesson.text {
+	color: green; 
+}
+.lesson {
+	    color: lightseagreen; 
+}
+.text {
+	    color: skyblue; 
+}
+.less {
+	color: blue; 
+}
+.main{
+	color: yellowgreen
+}
+
+@import url("reset.css");
